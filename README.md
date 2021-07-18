@@ -4,7 +4,7 @@ A lightweight data-pack for Minecraft Java Edition 1.16 that well, makes the voi
 
 **Video showcasing the pack in action:**
 
-[![Video thumbnail](https://plexion.dev/versions/old/thumbnails/void-rising.png)](https://www.youtube-nocookie.com/embed/sQ-S6D6R85o?rel=0)
+[![Video thumbnail](https://plexion.dev/versions/old/thumbnails/void-rising.png)](https://youtu.be/sQ-S6D6R85o)
 
 ## Featuring
 
