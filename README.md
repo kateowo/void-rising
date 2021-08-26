@@ -1,6 +1,6 @@
 # Void Rising Datapack for Minecraft 1.16
 
-A lightweight data-pack for Minecraft Java Edition 1.16 that well, makes the void rise. Everything is controlled within the single datapack with customisable variables for timings if needed. Lag is handled well with falling blocks being killed to avoid sand blocks causing lag upon rising. Upon dying, you are automatically placed into spectator mode to allow you to watch the game in progress without interference.
+Challenge you and your friends to the competitive event of Minecraft but the Void Rises. Prepare yourselves with gear, tools and more before the void begins to engulf the world from the bottom to the top, who will come out victorious in the final battle?
 
 **Video showcasing the pack in action:**
 
