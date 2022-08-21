@@ -6,7 +6,7 @@
 scoreboard players set time0 time 0
 
 # Fills away all blocks on the riser y level and rises up a block unless y is 245
-execute as @e[tag=riser] at @s run fill ~-51 ~-1 ~-51 ~51 ~1 ~51 barrier
+execute as @e[tag=riser] at @s run fill ~-51 ~ ~-51 ~51 ~ ~51 barrier
 execute as @e[tag=riser] at @s run fill ~-50 ~ ~-50 ~50 ~ ~50 air
 execute as @e[tag=riser] at @s run tp @s ~ ~1 ~
 
